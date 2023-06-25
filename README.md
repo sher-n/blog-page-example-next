@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 First, run yarn to install
 yarn
-# or 
+or 
 npm install
 
 Second, run the development server:
