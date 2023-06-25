@@ -13,12 +13,3 @@ export default function Home() {
     </main>
   );
 }
-
-{
-  /* <div className="bg-red w-4/5">Your current timezone is: Asia/Bangkok</div>
-      <div className="bg-red w-4/5">
-        <div>Card</div>
-        <div>Card</div>
-        <div>Card</div>
-      </div> */
-}
